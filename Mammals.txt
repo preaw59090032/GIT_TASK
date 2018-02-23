@@ -1,82 +1,33 @@
-Aardvark mammal
-Alpaca mammal
-Anteater mammal
-Antelope mammal
-Ape mammal
-Armadillo mammal
-Ass/Donkey mammal
-Baboon mammal
-Badger mammal
-Bat mammal
-Bear mammal
-Beaver mammal
-Bison mammal
-Boar mammal
-Buffalo mammal
-galago mammal
-Camel mammal
-Caribou mammal
-Cat mammal
-Cattle mammal
-Chamois mammal
-Cheetah mammal
-Chimpanzee mammal
-Chinchilla mammal
-Coyote mammal
-Deer mammal
-Dinosaur mammal
-Dog mammal
-Dolphin mammal
-Donkey mammal
-Dugong mammal
-Echidna mammal
-Eland mammal
-Elephant mammal
-Elephant seal mammal
-Elk mammal
-Ferret mammal
-Fox mammal
-Gaur mammal
-Gazelle mammal
-Gerbil mammal
-Giraffe - Mammal
-Gnu - Mammal
-Goat - Mammal
-Gorilla - Mammal
-Guanaco - Mammal
-Guinea pig - Mammal
-Hamster - Mammal
-Hare - Mammal
-Hedgehog - Mammal
-Hippopotamus - Mammal
-Horse - Mammal
-Human - Mammal
-Hyena - Mammal
-Jackal - Mammal
-Jaguar - Mammal
-Kangaroo - Mammal
-Koala - Mammal
-Kouprey - Mammal
-Kudu - Mammal
-Lemur - Mammal
-Leopard - Mammal
-Lion - Mammal
-Llama - Mammal
-Loris - Mammal
-Manatee - Mammal
-Marten - Mammal
-Meerkat - Mammal
-Mink - Mammal
-Mole - Mammal
-Monkey - Mammal
-Moose - Mammal
-Mouse - Mammal
-Mule - Mammal
-Okapi - Mammal
-Opossum - Mammal
-Oryx - Mammal
-Otter - Mammal
-Ox - Mammal
-Panther - Mammal
-
-
+Pig
+Pony
+Porcupine
+Prairie Dog
+Rabbit
+Raccoon
+Ram
+Rat
+Red deer
+Red panda
+Reindeer (caribou)
+Rhinoceros
+Ruff
+Sea lion
+Seal
+Sheep
+Shrew
+Skunk
+Squirrel
+Tapir
+Tarsier
+Tiger
+Vicua
+Wallaby
+Walrus
+Water buffalo
+Weasel
+Whale
+Wolf
+Wolverine
+Wombat
+Yak
+Zebra
