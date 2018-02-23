@@ -74,23 +74,23 @@ Gaur
 Gazelle
 Gerbil
 Giant Panda
-Giraffe
-Gnat
-Gnu
-Goat
-Goose
-Goldfinch
-Goldfish
-Gorilla
-Goshawk
-Grasshopper
-Grouse
-Guanaco
-Guinea fowl
-Guinea pig
-Gull
-Hamster
-Hare
+Giraffe - Mammal
+Gnat - Insect
+Gnu - Mammal
+Goat - Mammal
+Goose - Bird
+Goldfinch - Bird
+Goldfish - Fish
+Gorilla - Mammal
+Goshawk - Bird
+Grasshopper - Insect
+Grouse - Bird
+Guanaco - Mammal
+Guinea fowl - Bird
+Guinea pig - Mammal
+Gull - Bird
+Hamster - Mammal
+Hare - Mammal
 Hawk
 Hedgehog
 Heron
