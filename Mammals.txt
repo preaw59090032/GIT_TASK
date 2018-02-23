@@ -39,5 +39,44 @@ Fox mammal
 Gaur mammal
 Gazelle mammal
 Gerbil mammal
+Giraffe - Mammal
+Gnu - Mammal
+Goat - Mammal
+Gorilla - Mammal
+Guanaco - Mammal
+Guinea pig - Mammal
+Hamster - Mammal
+Hare - Mammal
+Hedgehog - Mammal
+Hippopotamus - Mammal
+Horse - Mammal
+Human - Mammal
+Hyena - Mammal
+Jackal - Mammal
+Jaguar - Mammal
+Kangaroo - Mammal
+Koala - Mammal
+Kouprey - Mammal
+Kudu - Mammal
+Lemur - Mammal
+Leopard - Mammal
+Lion - Mammal
+Llama - Mammal
+Loris - Mammal
+Manatee - Mammal
+Marten - Mammal
+Meerkat - Mammal
+Mink - Mammal
+Mole - Mammal
+Monkey - Mammal
+Moose - Mammal
+Mouse - Mammal
+Mule - Mammal
+Okapi - Mammal
+Opossum - Mammal
+Oryx - Mammal
+Otter - Mammal
+Ox - Mammal
+Panther - Mammal
 
 
