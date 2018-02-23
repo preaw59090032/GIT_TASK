@@ -6,3 +6,7 @@ Cockroach insect
 Dragonfly insect
 Fly insect
 
+Scorpion
+Stinkbug
+Termite
+Wasp
