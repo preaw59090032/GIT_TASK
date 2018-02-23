@@ -14,4 +14,22 @@ Falcon bird
 Finch bird
 Flamingo Bird
 
-
+Pelican 
+Penguin 
+Pheasant 
+Pigeon 
+Quail 
+Quelea 
+Rail 
+Raven 
+Rook 
+Sandpiper 
+Starling 
+Stork 
+Swallow 
+Swan 
+Turkey 
+Vulture 
+Woodcock 
+Woodpecker 
+Wren 
